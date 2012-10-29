@@ -18,3 +18,14 @@ That's why the CSS styles all have .codehilite in front of them. You should chan
 
 .. _Pygments: http://pygments.org
 .. _styles: http://dev.pocoo.org/projects/pygments/browser/pygments/styles
+
+
+Ewan's edits
+------------
+
+I have edited these CSS files so they are compatible with the output from Pelican_.
+You should be able to copy these files to overwrite the ``pygments.css`` in the theme directory.
+
+I've also included the generator script ``create_css.py``
+
+.. _Pelican: http://pelican.readthedocs.org/en/3.0/
